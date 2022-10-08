@@ -1,0 +1,3 @@
+This is a PDF merger which is capable of merging multiple PDFs.
+The user needs to just keep all the pdfs to be merged in one directory and give that directory name as an user input.
+This python script will merge all the pdfs in that directory.
